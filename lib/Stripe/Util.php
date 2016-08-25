@@ -69,6 +69,7 @@ abstract class Stripe_Util
       'recipient' => 'Stripe_Recipient',
       'refund' => 'Stripe_Refund',
       'subscription' => 'Stripe_Subscription',
+      'three_d_secure' => 'Stripe_ThreeDSecure',
       'fee_refund' => 'Stripe_ApplicationFeeRefund',
       'bitcoin_receiver' => 'Stripe_BitcoinReceiver',
       'bitcoin_transaction' => 'Stripe_BitcoinTransaction'
